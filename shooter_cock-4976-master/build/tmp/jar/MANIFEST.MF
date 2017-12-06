@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Robot-Class: ca._4976.steamworks.Robot
+Main-Class: edu.wpi.first.wpilibj.RobotBase
+
